@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(hhhh)[https://stotra.in]
+[https://stotra.in]
 
 <!--
 **sauravbytes/sauravbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
